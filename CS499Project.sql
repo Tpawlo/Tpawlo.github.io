@@ -352,7 +352,7 @@ ORDER BY 3 desc
 
 
 
--- SOFTWARE DESIGN AND ENGINNERING ENHANCEMENTS:
+-- SOFTWARE DESIGN AND ENGINEERING ENHANCEMENTS:
 
 
 -- This view creates a table that includes all columns except for funds raised.
