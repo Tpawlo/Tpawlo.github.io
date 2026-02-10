@@ -131,9 +131,9 @@ ORDER BY country, MONTH;
 WITH yearly_layoffs AS (
 	SELECT
 		company, 
-		YEAR(`date`) AS year, 
+		YEAR(`date`) ASyear, 
         SUM(total_laid_off) AS total_laid_off
-		FROM layoffsdata2
+		FROM layoffsdata
         WHERE `date` IS NOT NULL
         GROUP BY company, YEAR(`date`)
         ),
