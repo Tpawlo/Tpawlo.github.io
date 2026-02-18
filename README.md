@@ -93,7 +93,51 @@ ORDER BY 3 desc
 
 
 # Code Review Video:
-(https://www.youtube.com/watch?v=2yWYi0GbsFI)
+[The code review video is housed on Youtube:](https://www.youtube.com/watch?v=2yWYi0GbsFI)
+
+
+
+# Enhancement One: Software Design and Engineering
+## Enhancement Narative:
+
+
+
+
+
+# Software Design and Engineering Enhancements:
+
+
+
+
+
+
+
+# Enhancement Two: Algorithms and Data Structure
+## Enhancement Narative:
+
+
+
+
+
+# Algorithms and Data Structure Enhancements:
+
+
+
+
+
+# Enhancement Three: Databases
+## Enhancement Narative:
+
+
+
+
+
+# Database Enhancements:
+
+
+
+
+
 
 
 
