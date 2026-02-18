@@ -93,7 +93,7 @@ ORDER BY 3 desc
 
 
 # Code Review Video:
-[The code review video is housed on Youtube:](https://www.youtube.com/watch?v=2yWYi0GbsFI)
+[Click here to watch the code review video](https://www.youtube.com/watch?v=2yWYi0GbsFI)
 
 
 
