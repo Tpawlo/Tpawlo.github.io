@@ -88,7 +88,6 @@ FROM layoffsdata2
 GROUP BY company, YEAR(`date`)
 ORDER BY 3 desc
 ;
-
 ```
 
 
