@@ -10,7 +10,7 @@ This project explores a dataset covering different companies that were impacted 
 
 -- Exploratory Data Analysis
 
-Select *
+``` Select *
 FROM layoffsdata2 LIMIT 3000;
 
 
@@ -87,7 +87,7 @@ FROM layoffsdata2
 GROUP BY company, YEAR(`date`)
 ORDER BY 3 desc
 ;
-
+```
 
 
 
