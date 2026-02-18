@@ -1,5 +1,5 @@
 # Tpawlo.github.io
-#   ** CS-499 Computer Science Capstone **
+#   **CS-499 Computer Science Capstone**
 
 
 ## Exploratory Data Analysis Report Using MySQL: 
