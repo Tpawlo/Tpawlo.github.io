@@ -7,10 +7,9 @@ This project explores a dataset covering different companies that were impacted 
 
 
 # Original Artifact:
-
+```
 -- Exploratory Data Analysis
 
-```
 Select *
 FROM layoffsdata2 LIMIT 3000;
 
